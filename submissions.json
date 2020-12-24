@@ -1,4 +1,21 @@
 {
+  "CF102265936": {
+    "contest_id": 734,
+    "language": "GNU C++11",
+    "path": "codeforces\\734\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anton and Danik",
+    "problem_url": "https://codeforces.com/contest/734/problem/A",
+    "submission_id": "CF102265936",
+    "submission_url": "https://codeforces.com/contest/734/submission/102265936",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Dec/24/2020 23:07"
+  },
   "CF102267259": {
     "contest_id": 431,
     "language": "Java 11",
