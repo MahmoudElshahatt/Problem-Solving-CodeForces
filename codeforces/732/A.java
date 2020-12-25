@@ -17,12 +17,18 @@ int k=in.nextInt();    int r=in.nextInt();
 while(x>0)
 {
 res=x*k ;
-if(res %10==0 ||res%10==r){
+if(res %10==0){
 n=x;
 break ;}
+else if(res%10==r)
+{
+n=x;
+break;
+}
 x++;
 res=0;
 }
   System.out.println(n);
+  
     }
 }
