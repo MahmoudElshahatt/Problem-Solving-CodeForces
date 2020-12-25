@@ -12,15 +12,16 @@ public class ABuyAShovel {
      */
     public static void main(String[] args) {
         Scanner in=new Scanner(System.in);
-        int x=1;   int n=0;
+        int x=1;  int res; int n=0;
 int k=in.nextInt();    int r=in.nextInt();
-while(x>0)
+while(true)
 {
-if(x*k %10==0 ||x*k %10==r){
+res=x*k ;
+if(res %10==0 ||res%10==r){
 n=x;
-break;
- }
+break ;}
 x++;
+res=0;
 }
   System.out.println(n);
     }
