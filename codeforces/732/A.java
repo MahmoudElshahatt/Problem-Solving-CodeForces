@@ -14,7 +14,7 @@ public class ABuyAShovel {
         Scanner in=new Scanner(System.in);
         int x=1;  int res; int n=0;
 int k=in.nextInt();    int r=in.nextInt();
-while(true)
+while(x>0)
 {
 res=x*k ;
 if(res %10==0 ||res%10==r){
