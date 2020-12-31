@@ -1,3 +1,8 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 
 import java.util.Scanner;
 
@@ -7,32 +12,19 @@ import java.util.Scanner;
  */
 public class ADieRoll {
 
-    
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in); 
-        int m; int r=0;
+        String[] roll={"1/6","1/3","1/2","2/3","5/6","1/1"};
+        int m;
 int x=input.nextInt(); int y=input.nextInt();
      m=Math.max(x, y);
-     r=(6-m)+1;
-switch(r)
-{
-    case 1:
-      System.out.println("1/6"); break;
-case 2:
-      System.out.println("1/3"); break;
-case 3:
-      System.out.println("1/2"); break;
-case 4:
-      System.out.println("2/3"); break;
-case 5:
-      System.out.println("5/6"); break;
-case 6:
-      System.out.println("1/1"); break;
+                  System.out.println(roll[6-m]); 
 
-
-
-
-}        
+ 
+        
     }
     
 }
