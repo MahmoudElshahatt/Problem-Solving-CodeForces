@@ -1,4 +1,20 @@
 {
+  "CF103318985": {
+    "contest_id": 709,
+    "language": "Java 11",
+    "path": "codeforces\\709\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Juicer",
+    "problem_url": "https://codeforces.com/contest/709/problem/A",
+    "submission_id": "CF103318985",
+    "submission_url": "https://codeforces.com/contest/709/submission/103318985",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jan/04/2021 20:50"
+  },
   "CF103550731": {
     "contest_id": 443,
     "language": "Java 11",
