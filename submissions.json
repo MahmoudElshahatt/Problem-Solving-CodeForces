@@ -1,4 +1,22 @@
 {
+  "CF104210402": {
+    "contest_id": 490,
+    "language": "Java 11",
+    "path": "codeforces\\490\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Team Olympiad",
+    "problem_url": "https://codeforces.com/contest/490/problem/A",
+    "submission_id": "CF104210402",
+    "submission_url": "https://codeforces.com/contest/490/submission/104210402",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/13/2021 18:06"
+  },
   "CF104221416": {
     "contest_id": 770,
     "language": "Java 11",
