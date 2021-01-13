@@ -1,4 +1,21 @@
 {
+  "CF104221416": {
+    "contest_id": 770,
+    "language": "Java 11",
+    "path": "codeforces\\770\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Password",
+    "problem_url": "https://codeforces.com/contest/770/problem/A",
+    "submission_id": "CF104221416",
+    "submission_url": "https://codeforces.com/contest/770/submission/104221416",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/13/2021 20:45"
+  },
   "CF104614065": {
     "contest_id": 567,
     "language": "Java 11",
