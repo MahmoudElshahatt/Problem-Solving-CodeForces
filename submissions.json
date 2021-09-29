@@ -1,4 +1,21 @@
 {
+  "CF130294752": {
+    "contest_id": 1121,
+    "language": "GNU C++14",
+    "path": "codeforces\\1121\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mike and Children",
+    "problem_url": "https://codeforces.com/contest/1121/problem/B",
+    "submission_id": "CF130294752",
+    "submission_url": "https://codeforces.com/contest/1121/submission/130294752",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/29/2021 20:24"
+  },
   "CF130420061": {
     "contest_id": 1512,
     "language": "GNU C++14",
