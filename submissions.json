@@ -1,4 +1,23 @@
 {
+  "CF130660419": {
+    "contest_id": 961,
+    "language": "GNU C++14",
+    "path": "codeforces\\961\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lecture Sleep",
+    "problem_url": "https://codeforces.com/contest/961/problem/B",
+    "submission_id": "CF130660419",
+    "submission_url": "https://codeforces.com/contest/961/submission/130660419",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Oct/03/2021 16:01"
+  },
   "CF134106582": {
     "contest_id": 1607,
     "language": "GNU C++14",
